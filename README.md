@@ -12,7 +12,7 @@ I'm Denis, a 18 years old web developer from Russia.
 - 💽 Cheap, fast, and most importantly, high quality.
 
 ## Contacts
-- :calling: [@deginidev](https://kwork.ru/user/deginidev) on Kwork
+- [@deginidev](https://kwork.ru/user/deginidev) on Kwork
 
 ## 🔥 Streak stats
 <p align="center">
