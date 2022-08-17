@@ -7,7 +7,7 @@ I'm Denis, a 18 years old web developer from Russia.
 
 ## Skills
 - 👨‍💻 HTML5, CSS3, JS.
-- ⚙️ PSD, FIGMA.
+- ⚙️ Layout according to PSD, FIGMA.
 - 👁️ Adaptability, cross-browser compatibility, BEM methodology.
 - 💽 Cheap, fast, and most importantly, high quality.
 
