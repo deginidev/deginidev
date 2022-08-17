@@ -13,5 +13,8 @@ I'm Denis, a 18 years old web developer from Russia.
 
 ## 🔥 Streak stats
 <p align="center">
-  <img src="[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=deginidev&theme=radical&hide_border=true)](https://git.io/streak-stats)" alt="deginidev streak stats" />
+  <a href="#">
+    <img alt="deginidev's streak" src="http://github-readme-streak-stats.herokuapp.com?user=deginidev&theme=radical&hide_border=true"/>
+  </a>
+  <p align="center">🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
 </p>
