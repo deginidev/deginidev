@@ -11,6 +11,9 @@ I'm Denis, a 18 years old web developer from Russia.
 - 👁️ Adaptability, cross-browser compatibility, BEM methodology.
 - 💽 Cheap, fast, and most importantly, high quality.
 
+## Contacts
+- :calling: [@deginidev](https://kwork.ru/user/deginidev) on Kwork
+
 ## 🔥 Streak stats
 <p align="center">
   <a href="#">
