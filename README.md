@@ -11,4 +11,7 @@ I'm Denis, a 18 years old web developer from Russia.
 - 👁️ Adaptability, cross-browser compatibility, BEM methodology.
 - 💽 Cheap, fast, and most importantly, high quality.
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=deginidev&theme=radical)](https://git.io/streak-stats)
+## 🔥 Streak stats
+<p align="center">
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=deginidev&theme=radical)](https://git.io/streak-stats)
+</p>
