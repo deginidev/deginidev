@@ -11,8 +11,5 @@ I'm Denis, a 18 years old web developer from Russia.
 - 👁️ Adaptability, cross-browser compatibility, BEM methodology.
 - 💽 Cheap, fast, and most importantly, high quality.
 
-## Contact
-- [marton.lederer.hu](https://marton.lederer.hu)
-- [@martonlederer](https://twitter.com/martonlederer) on Twitter
-- [@martonlederer](https://twitter.com/instagram) on Instagram
-- [Marton#6513](./) on Discord
+## Where can I be found?
+- [@profile](https://kwork.ru/) on Kwork.
