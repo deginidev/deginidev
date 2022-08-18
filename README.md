@@ -11,7 +11,8 @@ I'm Denis, a 18 years old web developer from Russia.
 
 ## 🛠 Languages and Tools.
 <p>
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML5" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40" />
 </p>
 
 ## Contacts
