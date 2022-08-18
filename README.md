@@ -3,16 +3,21 @@
 <h2>Hey there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 I'm Denis, a 18 years old web developer from Russia.
 
-## Skills
+## 💻 Skills.
 - 👨‍💻 HTML5, CSS3, JS.
 - ⚙️ Layout according to PSD, FIGMA.
 - 👁️ Adaptability, cross-browser compatibility, BEM methodology.
 - 💽 Cheap, fast, and most importantly, high quality.
 
+## 🛠 Languages and Tools.
+<p>
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML5" />
+</p>
+
 ## Contacts
 - [@deginidev](https://kwork.ru/user/deginidev) on Kwork
 
-## 🔥 Streak stats
+## 🔥 Streak stats.
 <p align="center"><img alt="deginidev's streak" src="http://github-readme-streak-stats.herokuapp.com?user=deginidev&theme=radical&hide_border=true"/></p>
 <p align="center"><img alt="deginidev's stats" src="https://github-readme-stats.vercel.app/api?username=deginidev&show_icons=true&theme=radical"/></p>
 <!-- <p align="center"><img alt="deginidev's top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deginidev&layout=compact&theme=radical"/></p> -->
