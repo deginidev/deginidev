@@ -15,8 +15,5 @@ I'm Denis, a 18 years old web developer from Russia.
 - [@deginidev](https://kwork.ru/user/deginidev) on Kwork
 
 ## 🔥 Streak stats
-<p align="center">
-  <a href="#">
-    <img alt="deginidev's streak" src="http://github-readme-streak-stats.herokuapp.com?user=deginidev&theme=radical&hide_border=true"/>
-  </a>
-</p>
+<p align="center"><img alt="deginidev's streak" src="http://github-readme-streak-stats.herokuapp.com?user=deginidev&theme=radical&hide_border=true"/></p>
+<p align="center"><img alt="deginidev's languages" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical"/></p>
