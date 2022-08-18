@@ -17,3 +17,4 @@ I'm Denis, a 18 years old web developer from Russia.
 ## 🔥 Streak stats
 <p align="center"><img alt="deginidev's streak" src="http://github-readme-streak-stats.herokuapp.com?user=deginidev&theme=radical&hide_border=true"/></p>
 <p align="center"><img alt="deginidev's stats" src="https://github-readme-stats.vercel.app/api?username=deginidev&show_icons=true&theme=radical"/></p>
+<p align="center"><img alt="deginidev's top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deginidev0&layout=compact&theme=radical"/></p>
