@@ -4,7 +4,7 @@
 I'm Denis, a 18 years old web developer from Russia.
 
 ## 💻 Skills.
-- 👨‍💻 HTML5, CSS3, JS.
+- 👨‍💻 HTML5, CSS3/SCSS, JS/jQuery.
 - ⚙️ Layout according to PSD, FIGMA.
 - 👁️ Adaptability, cross-browser compatibility, BEM methodology.
 - 💽 Cheap, fast, and most importantly, high quality.
@@ -18,6 +18,8 @@ I'm Denis, a 18 years old web developer from Russia.
   <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" alt="Photoshop" width="40" height="40" />&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40" />&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="Github" width="40" height="40" />&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="SASS" width="40" height="40" />&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/gulp/gulp-plain.svg" alt="Gulp" width="40" height="40" />&nbsp;
   
 </p>
 
